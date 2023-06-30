@@ -3,7 +3,7 @@
 
 ### My 3 tasks from level 1 in Web development domain:
 
-Task 1 - Landing Page(https://somya2010.github.io/oibsip_task1/)
+Task 1 - [Landing Page](https://somya2010.github.io/oibsip_task1/)
 
   
 
